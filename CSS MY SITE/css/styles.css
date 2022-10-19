@@ -21,6 +21,8 @@ h2{
 .bottom{
 }
 
+
+
 .cloud-bottom{
   position: absolute;
   left: 300px;
@@ -46,6 +48,10 @@ top: 100px;
   width: 20%;
   border-radius: 100%;
 }
+.font{
+  font-size: .75em;
+}
+
 
 .top{
   background-color: #E7F6F2;
